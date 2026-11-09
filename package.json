@@ -1,0 +1,10 @@
+{
+  "name": "bmsa-fsd-booth",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BMSA FSD mobile recruitment booth games",
+  "scripts": {
+    "start": "node serve.cjs",
+    "test": "node --test tests/core.test.cjs"
+  }
+}
